@@ -90,7 +90,7 @@ Select InfluxDB and set the URL to http://InfluxDB:9090.
 
 ## Server Efficiency and Rate Limiting Performance
 
-![Server Efficiency and Rate Limiting Performance](./server_and_rate_limit.gif)
+![Server Efficiency and Rate Limiting Performance](https://raw.githubusercontent.com/ghulamazad/websocket-optimization/main/server_and_rate_limit.gif)
 
 # License
 
