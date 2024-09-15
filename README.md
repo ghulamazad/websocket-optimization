@@ -88,6 +88,13 @@ Select InfluxDB and set the URL to http://InfluxDB:9090.
 - Grafana: http://localhost:3000
 - InfluxDB: http://localhost:8086
 
+## Server Efficiency and Rate Limiting Performance
+
+<video width="640" height="360" controls>
+  <source src="./server_and_rate_limit.webm" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 # License
 
 This project is licensed under the MIT License
