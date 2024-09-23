@@ -2,11 +2,11 @@
 
 ## Features
 
-WebSocket Server: Handles WebSocket connections with support for rate limiting, heartbeat, and session management.
-Rate Limiting: Uses Redis to control the rate of messages per client.
-Message Prioritization: Publishes messages to RabbitMQ for further processing.
-Monitoring: Integrated with Prometheus and Grafana for real-time monitoring and visualization.
-Load Testing: Includes a k6 script for performance testing.
+- WebSocket Server: Handles WebSocket connections with support for rate limiting, heartbeat, and session management.
+- Rate Limiting: Uses Redis to control the rate of messages per client.
+- Message Prioritization: Publishes messages to RabbitMQ for further processing.
+- Monitoring: Integrated with Prometheus and Grafana for real-time monitoring and visualization.
+- Load Testing: Includes a k6 script for performance testing.
 
 ## Prerequisites
 
